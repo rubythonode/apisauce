@@ -29,7 +29,7 @@
     "dist/apisauce.js"
   ],
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "infinitered/axios#windows_friendly",
     "ramda": "^0.23.0",
     "ramdasauce": "^1.1.1"
   },
